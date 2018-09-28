@@ -1,0 +1,30 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish]{babel}
+\decimalpoint
+\usepackage{indentfirst}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\begin{document}
+	\begin{algorithm}[ht]
+%\captionsetup[algorithm]{name=Algoritmo}
+		\caption{Epsilon de máquina}
+		\begin{algorithmic}[1]
+			\For{k}{1}{100}
+			\State $s \gets  0.5*s$
+			\State $t \gets s+1.0$
+			\If{ $t \leq 1.0$ }		
+			\State $s \gets 2.0*s$
+			\State Escribir $k-1$, $s$
+			\State Salir
+			\EndIf
+			\EndFor
+		\end{algorithmic}
+	\end{algorithm}
+\end{document}
