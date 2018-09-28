@@ -1,0 +1,83 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish]{babel}
+\decimalpoint
+\usepackage{indentfirst}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\lstset{% general command to set parameter(s)
+ frame=Ltb,
+ framerule=0pt,
+ aboveskip=0.5cm,
+ framextopmargin=3pt,
+ framexbottommargin=3pt,
+ framexleftmargin=0.4cm,
+ framesep=0pt,
+ rulesep=.4pt,
+ backgroundcolor=\color{gray97},
+ rulesepcolor=\color{black},
+language=Scilab,
+basicstyle=\small\ttfamily, % print whole listing small
+keywordstyle=\color{blue}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=, % nothing happens
+commentstyle=\color{red}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+showstringspaces=false,
+numbers=left, 
+numberstyle=\tiny, 
+stepnumber=1, 
+numbersep=5pt,
+breaklines=false,
+numberfirstline = true,
+}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\floatname{algorithm}{Algoritmo}
+\renewcommand{\algorithmicrequire}{\textbf{Entrada:}}
+\renewcommand{\algorithmicend}{\textbf{fin}}
+\renewcommand{\algorithmicif}{\textbf{si}}
+\renewcommand{\algorithmicthen}{\textbf{entonces}}
+\renewcommand{\algorithmicelse}{\textbf{sino}}
+\renewcommand{\algorithmicwhile}{\textbf{mientras}}
+\renewcommand{\algorithmicdo}{\textbf{hacer}}
+
+\begin{document}
+	\section{ALGORITMOS}
+
+	\begin{algorithm}[ht]
+%\captionsetup[algorithm]{name=Algoritmo}
+		\caption{EL ALGORITMO DE NEWTON-RAPHSON}
+		\begin{algorithmic}[1]
+		    \State $i \gets  1.0$
+			\While{$k\leq N$}
+			\State $p \gets  p_0-\frac{f(p_0)}{f^\prime(p_0)}$
+			\If{ $|p-p_0| < TOL$ }		
+			\State SALIDA($p$)
+			\EndIf
+			\State $i \gets i+1$
+			\State $p_0 \gets p$			
+			\EndWhile
+			\State SALIDA('El método fracasó después de $N$ iteraciones'); PARAR.
+		\end{algorithmic}
+	\end{algorithm}
+	\section{PROGRAMAS}
+	\begin{lstlisting}
+R=input("Ingrese R=");
+xk=1;
+printf("%4s%8s\n","k","xk")
+for(k=1:10)
+ xk=xk*(2-R*xk);
+ printf("%4d%8.3f\n",k,xk)
+end
+printf("\n 1/R=%f",xk)
+\end{lstlisting}
+\end{document}
