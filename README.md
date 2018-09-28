@@ -5,3 +5,6 @@ Algoritmos, còdigo y gràficas
 
 Codificar el algoritmo de Newton, ver la pàgina 2 en:
 (http://www.ehu.eus/juancarlos.gorostizaga/mn11b/temas/newton_ecuac.pdf)
+
+Còdigo fuente de programas
+(https://github.com/luisrocag/protex/blob/master/codigos_latex.tex)
