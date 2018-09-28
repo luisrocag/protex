@@ -1,3 +1,5 @@
+Ejemplo 1
+
 \documentclass[12pt,a4paper]{article}
 \usepackage[spanish]{babel}
 \decimalpoint
@@ -25,6 +27,50 @@
 			\State Salir
 			\EndIf
 			\EndFor
+		\end{algorithmic}
+	\end{algorithm}
+\end{document}
+
+
+Ejemplo 2
+
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish]{babel}
+\decimalpoint
+\usepackage{indentfirst}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\floatname{algorithm}{Algoritmo}
+\renewcommand{\algorithmicrequire}{\textbf{Entrada:}}
+\renewcommand{\algorithmicend}{\textbf{fin}}
+\renewcommand{\algorithmicif}{\textbf{si}}
+\renewcommand{\algorithmicthen}{\textbf{entonces}}
+\renewcommand{\algorithmicelse}{\textbf{sino}}
+\renewcommand{\algorithmicwhile}{\textbf{mientras}}
+\renewcommand{\algorithmicdo}{\textbf{hacer}}
+
+\begin{document}
+	\begin{algorithm}[ht]
+%\captionsetup[algorithm]{name=Algoritmo}
+		\caption{EL ALGORITMO DE NEWTON-RAPHSON}
+		\begin{algorithmic}[1]
+		    \State $i \gets  1.0$
+			\While{$k\leq N$}
+			\State $p \gets  p_0-\frac{f(p_0)}{f^\prime(p_0)}$
+			\If{ $|p-p_0| < TOL$ }		
+			\State SALIDA($p$)
+			\EndIf
+			\State $i \gets i+1$
+			\State $p_0 \gets p$			
+			\EndWhile
+			\State SALIDA('El método fracasó después de $N$ iteraciones'); PARAR.
 		\end{algorithmic}
 	\end{algorithm}
 \end{document}
