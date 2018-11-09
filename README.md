@@ -10,5 +10,5 @@ Còdigo fuente de programas
 (https://github.com/luisrocag/protex/blob/master/codigos_latex.tex)
 
 # Programación en Python 3
-
+Introducción (https://github.com/luisrocag/protex/blob/master/introduccion.ipynb)
 Laboratorio 1 (https://github.com/luisrocag/protex/blob/master/laboratorio1.ipynb)
