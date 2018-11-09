@@ -8,3 +8,7 @@ Codificar el algoritmo de Newton, ver la pàgina 2 en:
 
 Còdigo fuente de programas
 (https://github.com/luisrocag/protex/blob/master/codigos_latex.tex)
+
+# Programación en Python 3
+
+Laboratorio 1 (https://github.com/luisrocag/protex/blob/master/laboratorio1.ipynb)
