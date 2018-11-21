@@ -14,3 +14,7 @@ Código fuente de programas
 Introducción (https://github.com/luisrocag/protex/blob/master/introduccion.ipynb)
 
 Laboratorio 1 (https://github.com/luisrocag/protex/blob/master/laboratorio1.ipynb)
+
+# Práctica 4
+
+(https://github.com/luisrocag/protex/blob/master/protex-pc4.pdf)
