@@ -17,4 +17,4 @@ Laboratorio 1 (https://github.com/luisrocag/protex/blob/master/laboratorio1.ipyn
 
 Práctica 4 (https://github.com/luisrocag/protex/blob/master/protex-pc4.pdf)
 
-Laboratorio 2 (https://github.com/luisrocag/protex/blob/master/lista02-2018-2.pdf)
+Laboratorio 2 (https://github.com/luisrocag/protex/blob/master/laboratorio2.ipynb)
