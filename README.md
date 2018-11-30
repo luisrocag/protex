@@ -19,4 +19,8 @@ Práctica 4 (https://github.com/luisrocag/protex/blob/master/protex-pc4.pdf)
 
 Laboratorio 2 (https://github.com/luisrocag/protex/blob/master/laboratorio2.ipynb)
 
-Laboratorio 3 (https://github.com/luisrocag/protex/blob/master/lista03-2018-2.pdf)
+Laboratorio 3 (https://github.com/luisrocag/protex/blob/master/laboratorio3.ipynb)
+  Ejercicios: (https://github.com/luisrocag/protex/blob/master/lista03-2018-2.pdf)
+  
+## PC6: VIERNES 7 de diciembre en la sala 3 de 8 a 10am, 
+    Temas; creacion de funciones, graficos en 2d y operaciones con matrices
