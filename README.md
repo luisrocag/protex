@@ -1,4 +1,6 @@
 # Procesamiento de Texto
+Primer laboratorio 
+(https://postulanteuniversitario.blogspot.com/2015/08/coleccion-de-examenes-de-calculo.html)
 
 Algoritmos, código y gráficas
 (https://github.com/luisrocag/protex/blob/master/miscelanea)
