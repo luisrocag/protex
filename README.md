@@ -8,5 +8,5 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 (https://github.com/luisrocag/protex/blob/master/CM142-2017-I-PD3.pdf)
 
 ### Código Latex 
-(https://github.com/luisrocag/protex/blob/master/semana2.tex9
+(https://github.com/luisrocag/protex/blob/master/semana2.tex)
 
