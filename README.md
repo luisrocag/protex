@@ -1,6 +1,10 @@
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
 (https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
+
+### Código Latex 
+(https://github.com/luisrocag/protex/blob/master/codigo_semana1.tex)
+
 Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.com/2015/08/coleccion-de-examenes-de-calculo.html)
 
 
