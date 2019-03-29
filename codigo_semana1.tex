@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[spanish]{babel}
+\title{Programación  y texto científico}
+\author{Luis Roca}
+\date{Marzo 2019}
+\begin{document}
+\maketitle
+\section{Ejercicios}
+\begin{enumerate}
+    \item Calcule la siguiente integral:
+\begin{equation*}
+    I=\int \frac{2\ln x + x\sec^2 x}{
+    x\sqrt{\ln^2 x+\tan x}} dx
+\end{equation*}
+Solución:
+
+Hacemos el cambio $u=\ln^2 x+\tan x$ entonces $xdu=2\ln x+x\sec^2 x dx$, luego
+\begin{equation*}
+   I=\int \frac{1}{\sqrt{u}}du=2\sqrt{u}+C=2\sqrt{\ln^2 x+\tan x}+C
+\end{equation*}
+\item Calcule la siguiente integral:
+\begin{equation*}
+    I=\int \frac{\arcsen (x)}{5x^2\sqrt{1-x^2}} dx
+\end{equation*}
+\item Calcule mediante sumas de Riemann, \Big(sugerencia: $\sum_{j=1}^{n} a_j=a\frac{1-a^n}{1-a}$ \Big)
+\begin{equation*}
+    I=\int_{-3}^{-1} [ (x+2)^2+e^{-x} ] dx
+\end{equation*}
+\end{enumerate}
+\end{document}
