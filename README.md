@@ -14,3 +14,5 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 ### Código Latex 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana2.tex)
 
+## PC1
+(https://github.com/luisrocag/protex/blob/master/pc1b_protex_2019_1.pdf)
