@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amssymb}
+\usepackage{amsmath}
 \begin{document}
 \begin{enumerate}
 \item Para que valores de $a$ y $b$ el sistema 
@@ -22,9 +23,21 @@ tiene:
 \item Probar que $\mathbb{R}^2$ es un $\mathbb{R}$-espacio vectorial con la suma $\oplus$ y el producto
 definidos de la siguiente forma
 \[ (x, y)\oplus
- (x^\prime , y^\prime ) = (x + x\prime - 2, 
- y + y\prime - 1) \]
+ (x^\prime , y^\prime ) = (x + x^\prime - 2, 
+ y + y^\prime - 1) \]
  \[ r \circledast(x, y) = r(x - 2, y - 1) + (2, 1)\]
 Este espacio se denotará $R^2_{(2,1)}$ para distinguirlo de $R^2$ con la suma y el producto usual. La notación se basa en que el (2, 1) resulta el neutro de la suma $\oplus$.
+ \item Si la ecuación matricial
+ $ A \begin{pmatrix}
+ x \\ y
+ \end{pmatrix}=\begin{pmatrix}
+ b_1 \\ b_2 \end{pmatrix}
+ $ tiene por solución $\begin{pmatrix}
+ x \\ y
+ \end{pmatrix}= \begin{pmatrix}
+ 3 \\ 0
+ \end{pmatrix}+t\begin{pmatrix}
+ -2 \\ 1
+ \end{pmatrix}$
 \end{enumerate}
 \end{document}
