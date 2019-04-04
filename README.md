@@ -16,3 +16,6 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 ## PC1
 (https://github.com/luisrocag/protex/blob/master/pc1b_protex_2019_1.pdf)
+
+## Laboratorio 2: 
+(http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
