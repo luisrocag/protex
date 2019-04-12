@@ -23,3 +23,9 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 ## Laboratorio 3: 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana4.tex)
+
+## Practica calificada 2
+![Imagen 1](/imagen1.png)
+
+![Imagen 2](/imagen2.png)
+
