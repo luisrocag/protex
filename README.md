@@ -20,3 +20,6 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 ## Laboratorio 2: 
 (http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 (https://github.com/luisrocag/protex/blob/master/codigo_semana3.tex)
+
+## Laboratorio 3: 
+(https://github.com/luisrocag/protex/blob/master/codigo_semana4.tex)
