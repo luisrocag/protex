@@ -1,0 +1,35 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{multicol}
+\setlength{\columnsep}{1.5cm}
+\begin{document}
+\listoftables
+\listoffigures
+\newpage
+\begin{multicols}{2}
+La Universidad Nacional de Ingeniería, es una institución educativa la cual fue fundada en 1876 por el ingeniero polaco Eduardo de Habich, con la denominación de Escuela Especial de Construcciones Civiles y de Minas del Perú, conocida tradicionalmente como Escuela de Ingeniero y convertida en universidad en 1955 en la UNIVERSIDAD NACIONAL DE INGENIERIA (UNI). Hoy es el primer y principal centro de formación de ingenieros, arquitectos y científicos de nuestro país.
+\end{multicols}
+Mira la figura \ref{figura1}
+\begin{figure}[h]
+    \centering
+\includegraphics[width=5cm]{logoUNiparaenviar-04.png}
+\caption{Logo de la UNI\label{figura1}}
+\end{figure}
+\newpage
+Miren el cuadro \ref{tabla1}
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{ ||c|c|c|| } 
+ \hline
+ cell1 & cell2 & cell3 \\ [0.5ex] 
+  \hline  \hline  %linea
+ cell4 & cell5 & cell6 \\ 
+ cell7 & cell8 & cell9 \\ 
+ \hline
+\end{tabular}
+\caption{Tablas en \LaTeX \label{tabla1}}
+\end{center}
+\end{table}
+\end{document}
