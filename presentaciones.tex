@@ -1,0 +1,64 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Madrid}
+\title{Presentaciones en Beamer}
+\author{L. Roca}
+\institute[UNI]{Universidad Nacional de Ingeniería}
+\date{2019}
+\logo{\includegraphics[height=1.5cm]{logoUNI.jpg}}
+\newtheorem{teo}{Teorema}
+\begin{document}
+\frame{\titlepage}
+\begin{frame}
+\begin{columns}[T] % contents are top vertically aligned
+     \begin{column}[T]{5cm} % each column can also be its own environment
+     Contents of first column \\ split into two lines
+     \end{column}
+     \begin{column}[T]{5cm} % alternative top-align that's better for graphics
+          \includegraphics[height=3cm]{logoUNI.jpg}
+     \end{column}
+     \end{columns}
+\end{frame}     
+\begin{frame}
+\frametitle{Introducción}
+Beamer es una clase de documento para presentaciones.
+\begin{teo}
+$c^2=a^2+ b^2$
+\end{teo}
+\begin{itemize}
+ \item<1-> Límites
+ \item<2-> Continuidad
+ \item<3> Diferenciabilidad
+ \item<4-> Integración
+\end{itemize}
+\end{frame}
+\begin{frame}
+ Toda función diferenciable \pause
+ 
+ es una función continua \pause
+ 
+ pero no toda función continua es diferenciable.
+ 
+\end{frame}
+\begin{frame}[allowframebreaks] 
+\frametitle{Un texto largo}
+ Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. \framebreak Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable.  Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable.  Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable.
+  Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable. Toda función diferenciable  es una función continua; pero no toda función continua es diferenciable.
+  \cite{Autor1990}
+\end{frame}
+\begin{frame}[allowframebreaks]
+  \frametitle{Bibliografía}
+  \begin{thebibliography}{10}    
+  \beamertemplatebookbibitems
+  \bibitem{Autor1990}
+    A.~Autor.
+    \newblock {\em Introduction to Giving Presentations}.
+    \newblock Klein-Verlag, 1990.
+  \beamertemplatearticlebibitems
+  \bibitem{Jemand2000}
+    S.~Jemand.
+    \newblock On this and that.
+    \newblock {\em Journal of This and That}, 2(1):50--100, 2000.
+  \end{thebibliography}
+\end{frame}
+\end{document}
