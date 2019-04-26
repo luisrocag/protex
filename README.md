@@ -29,3 +29,5 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 ![Imagen 2](/figura2.png)
 
+## Laboratorio 4: 
+(https://github.com/luisrocag/protex/blob/master/presentaciones.tex)
