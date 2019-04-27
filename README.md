@@ -34,3 +34,4 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 ## Laboratorio 5: 
 (https://github.com/luisrocag/protex/blob/master/graficas.md)
+(https://github.com/luisrocag/protex/blob/master/miscelanea)
