@@ -35,3 +35,7 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 ## Laboratorio 5: 
 (https://github.com/luisrocag/protex/blob/master/graficas.md)
 (https://github.com/luisrocag/protex/blob/master/miscelanea)
+
+## Practica calificada 3
+Crear un documento con el formato de la revista TECNIA
+http://vri.uni.edu.pe/wp-content/uploads/2019/01/TECNIA2019v28012019.docx
