@@ -1,4 +1,9 @@
 # Python
+## Ingreso
+
+source anaconda3/bin/activate 
+jupyter notebook
+
 ## Laboratorio 2: 
 (https://github.com/luisrocag/protex/blob/master/lab2_2019_1.ipynb)
 
