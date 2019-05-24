@@ -8,7 +8,8 @@ jupyter notebook
 ## Laboratorio 2: 
 (https://github.com/luisrocag/protex/blob/master/lab2_2019_1.ipynb)
 
-
+## If y For
+(https://github.com/luisrocag/protex/blob/master/Estructuras-If-For.ipynb)
 
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
