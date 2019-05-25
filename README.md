@@ -16,6 +16,9 @@ jupyter notebook
 (https://github.com/luisrocag/protex/blob/master/lista1-2019-1.pdf)
 (https://github.com/luisrocag/protex/blob/master/lista2-2019-1.pdf)
 
+## Ejemplos
+(https://github.com/luisrocag/protex/blob/master/ejercicios_semana10.ipynb)
+
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
 (https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
