@@ -11,6 +11,10 @@ jupyter notebook
 ## If y For
 (https://github.com/luisrocag/protex/blob/master/Estructuras-If-For.ipynb)
 
+## Listas, Tuplas, Dictionarios
+
+(https://github.com/luisrocag/protex/blob/master/listas.ipynb)
+
 ## Lista de Ejercicios
 
 (https://github.com/luisrocag/protex/blob/master/lista1-2019-1.pdf)
