@@ -25,7 +25,8 @@ jupyter notebook
 (https://github.com/luisrocag/protex/blob/master/ejercicios_semana12.ipynb)
 
 # Libro
-(https://hplgit.github.io/scipro-primer/)
+PDF: (https://github.com/hplgit/primer.html/blob/master/doc/pub/all/book.pdf)
+Materiales: (https://hplgit.github.io/scipro-primer/)
 
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
