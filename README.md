@@ -22,6 +22,7 @@ jupyter notebook
 
 ## Ejemplos
 (https://github.com/luisrocag/protex/blob/master/ejercicios_semana10.ipynb)
+(https://github.com/luisrocag/protex/blob/master/ejercicios_semana12.ipynb)
 
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
