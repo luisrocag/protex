@@ -24,6 +24,9 @@ jupyter notebook
 (https://github.com/luisrocag/protex/blob/master/ejercicios_semana10.ipynb)
 (https://github.com/luisrocag/protex/blob/master/ejercicios_semana12.ipynb)
 
+# Libro
+(https://hplgit.github.io/scipro-primer/)
+
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
 (https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
