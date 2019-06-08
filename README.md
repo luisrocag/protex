@@ -28,6 +28,9 @@ jupyter notebook
 PDF: (https://github.com/hplgit/primer.html/blob/master/doc/pub/all/book.pdf)
 Materiales: (https://hplgit.github.io/scipro-primer/)
 
+## Funciones
+(https://github.com/luisrocag/protex/blob/master/funciones.ipynb)
+
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
 (https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
