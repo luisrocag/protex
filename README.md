@@ -30,6 +30,9 @@ Materiales: (https://hplgit.github.io/scipro-primer/)
 
 ## Funciones
 (https://github.com/luisrocag/protex/blob/master/funciones.ipynb)
+(http://farside.ph.utexas.edu/teaching/336k/Newtonhtml/node29.html)
+
+# PRACTICA 5: JUEVES 20 de JUNIO
 
 # Procesamiento de Texto 2019-1
 ## Laboratorio 1: 
