@@ -32,6 +32,9 @@ Materiales: (https://hplgit.github.io/scipro-primer/)
 (https://github.com/luisrocag/protex/blob/master/funciones.ipynb)
 (http://farside.ph.utexas.edu/teaching/336k/Newtonhtml/node29.html)
 
+## Funciones para graficar
+(https://github.com/luisrocag/protex/blob/master/graficas.ipynb)
+
 # PRACTICA 5: JUEVES 20 de JUNIO
 
 # Procesamiento de Texto 2019-1
