@@ -35,6 +35,9 @@ Materiales: (https://hplgit.github.io/scipro-primer/)
 ## Funciones para graficar
 (https://github.com/luisrocag/protex/blob/master/graficas.ipynb)
 
+## Funciones recursivas
+(https://github.com/luisrocag/protex/blob/master/recursion.ipynb)
+
 # PRACTICA 5: JUEVES 20 de JUNIO
 
 # Procesamiento de Texto 2019-1
