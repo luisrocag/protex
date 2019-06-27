@@ -5,6 +5,11 @@ source anaconda3/bin/activate
 
 jupyter notebook
 
+## Practica calificada 6 (FINAL)
+(https://github.com/luisrocag/protex/blob/master/pd8(1).pdf)
+
+Entrega Jueves 4 de julio
+
 ## Laboratorio 2: 
 (https://github.com/luisrocag/protex/blob/master/lab2_2019_1.ipynb)
 
