@@ -1,51 +1,5 @@
-# Python
-## Ingreso
 
-source anaconda3/bin/activate 
-
-jupyter notebook
-
-## Practica calificada 6 (FINAL)
-(https://github.com/luisrocag/protex/blob/master/pd8(1).pdf)
-
-Entrega Jueves 4 de julio
-
-## Laboratorio 2: 
-(https://github.com/luisrocag/protex/blob/master/lab2_2019_1.ipynb)
-
-## If y For
-(https://github.com/luisrocag/protex/blob/master/Estructuras-If-For.ipynb)
-
-## Listas, Tuplas, Dictionarios
-
-(https://github.com/luisrocag/protex/blob/master/listas.ipynb)
-
-## Lista de Ejercicios
-
-(https://github.com/luisrocag/protex/blob/master/lista1-2019-1.pdf)
-(https://github.com/luisrocag/protex/blob/master/lista2-2019-1.pdf)
-
-## Ejemplos
-(https://github.com/luisrocag/protex/blob/master/ejercicios_semana10.ipynb)
-(https://github.com/luisrocag/protex/blob/master/ejercicios_semana12.ipynb)
-
-# Libro
-PDF: (https://github.com/hplgit/primer.html/blob/master/doc/pub/all/book.pdf)
-Materiales: (https://hplgit.github.io/scipro-primer/)
-
-## Funciones
-(https://github.com/luisrocag/protex/blob/master/funciones.ipynb)
-(http://farside.ph.utexas.edu/teaching/336k/Newtonhtml/node29.html)
-
-## Funciones para graficar
-(https://github.com/luisrocag/protex/blob/master/graficas.ipynb)
-
-## Funciones recursivas
-(https://github.com/luisrocag/protex/blob/master/recursion.ipynb)
-
-# PRACTICA 5: JUEVES 20 de JUNIO
-
-# Procesamiento de Texto 2019-1
+# Procesamiento de Texto 2019-2
 ## Laboratorio 1: 
 (https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
 
