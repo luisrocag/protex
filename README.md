@@ -2,7 +2,7 @@
 # Procesamiento de Texto 2019-2
 [Silabo del curso](https://github.com/luisrocag/protex/blob/master/COMPLETO%20PROCESADOR%20DE%20TEXTO%20CIENTIFICO%20Y%20PROGRAMACION.pdf)
 ## Laboratorio 1: 
-(https://github.com/luisrocag/protex/blob/master/lab_1_protex_2019_1.pdf)
+(https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
 
 ### Código Latex 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana1.tex)
