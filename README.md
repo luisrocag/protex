@@ -4,7 +4,6 @@
 # Python
 ## Laboratorios: 
 [Laboratorio 1](https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
-
 [Laboratorio 2]
 (https://github.com/luisrocag/protex/blob/master/funciones_sesion2.ipynb)
 
