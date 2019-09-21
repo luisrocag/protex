@@ -3,9 +3,11 @@
 [Silabo del curso](https://github.com/luisrocag/protex/blob/master/COMPLETO%20PROCESADOR%20DE%20TEXTO%20CIENTIFICO%20Y%20PROGRAMACION.pdf)
 # Python
 ## Laboratorios: 
-⋅⋅*[Laboratorio 1](https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
+⋅⋅ [Laboratorio 1](https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
 
-⋅⋅*[Laboratorio 2](https://github.com/luisrocag/protex/blob/master/funciones_sesion2.ipynb)
+⋅⋅ [Laboratorio 2](https://github.com/luisrocag/protex/blob/master/funciones_sesion2.ipynb)
+
+⋅⋅ [Laboratorio 3](https://github.com/luisrocag/protex/blob/master/Listas_Parte1.ipynb)
 
 # LaTeX
 ### Código Latex 
