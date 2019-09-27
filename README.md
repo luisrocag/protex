@@ -10,7 +10,7 @@
 
 * [Laboratorio 3](https://github.com/luisrocag/protex/blob/master/Listas_Parte1.ipynb)
 
-* [Laboratorio 4]https://github.com/luisrocag/protex/blob/master/tuplas.ipynb
+* [Laboratorio 4](https://github.com/luisrocag/protex/blob/master/tuplas.ipynb)
 
 # LaTeX
 ### Código Latex 
