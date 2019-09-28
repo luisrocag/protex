@@ -4,13 +4,15 @@
 # Python
 ## Laboratorios: 
 
-* [Laboratorio 1](https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
+* [Laboratorio 1: Entrada y salida](https://github.com/luisrocag/protex/blob/master/Laboratorio1_2019_2.ipynb)
 
-* [Laboratorio 2](https://github.com/luisrocag/protex/blob/master/funciones_sesion2.ipynb)
+* [Laboratorio 2: Funciones](https://github.com/luisrocag/protex/blob/master/funciones_sesion2.ipynb)
 
-* [Laboratorio 3](https://github.com/luisrocag/protex/blob/master/Listas_Parte1.ipynb)
+* [Laboratorio 3: Listas](https://github.com/luisrocag/protex/blob/master/Listas_Parte1.ipynb)
 
-* [Laboratorio 4](https://github.com/luisrocag/protex/blob/master/tuplas.ipynb)
+* [Laboratorio 4: Diccionarios](https://github.com/luisrocag/protex/blob/master/tuplas.ipynb)
+
+* [Laboratorio 5: Archivos](https://github.com/luisrocag/protex/blob/master/archivos.ipynb)
 
 # LaTeX
 ### Código Latex 
