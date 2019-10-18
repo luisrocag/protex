@@ -14,6 +14,8 @@
 
 * [Laboratorio 5: Archivos](https://github.com/luisrocag/protex/blob/master/archivos.ipynb)
 
+* [Laboratorio 6: Gráficos](https://github.com/luisrocag/protex/blob/master/graficas_python.ipynb)
+
 # LaTeX
 ### Código Latex 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana1.tex)
