@@ -2,7 +2,7 @@
 
 Reproducir el siguiente documento
 
-(https://github.com/luisrocag/protex/blob/master/EXAMENCALCULOINTEGRAL-A.png)
+!(https://github.com/luisrocag/protex/blob/master/EXAMENCALCULOINTEGRAL-A.png)
 
 
 ```
