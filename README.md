@@ -24,6 +24,9 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 
 ## Laboratorio 2: 
+# Texto matematico
+(https://github.com/luisrocag/protex/blob/master/latex02.md)
+
 (https://github.com/luisrocag/protex/blob/master/CM142-2017-I-PD3.pdf)
 
 ### Código Latex 
