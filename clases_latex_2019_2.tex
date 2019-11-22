@@ -1,0 +1,126 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[margin=2cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{pgf,tikz,pgfplots}
+\pgfplotsset{compat=1.15}
+\usetikzlibrary{babel}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+\begin{document}
+\chapter{Clase Viernes 15 de noviembre}
+\begin{center}
+ \Large
+    \underline{EXAMEN DE MEDIO CURSO}
+\end{center}
+\begin{enumerate}
+    \item Calcule la siguiente integral:\hfill (3 puntos)
+\[   
+\int \frac{2\ln x + x\sec^2 x}{
+    x\sqrt{\ln^2 x+\tan x}} \,dx
+\]
+\item Calcule la siguiente integral:\hfill (3 puntos)
+\[   
+\int \frac{{\rm sgn}x\arcsen x}{
+    5x^2\sqrt{1-x^2}} \,dx
+\]
+\item Calcule mediante sumas de Riemann 
+(sugerencia: $\sum_{j=1}^n a_j=\frac{a(1-a^n)}{1-a}$ ):\hfill (3 puntos)
+\[   
+\int_{-3}^{-1} [ (x+2)^2+e^{-x}] \,dx
+\]
+\item Sea $f(x)=\int_0^x e^{\sen t}\, dt$. Si
+$\int_0^\pi e^{\sen t}\, dt\approx 6,21$; calcule:
+\hfill (3 puntos)
+\[
+\int_0^\pi f(x)\sen x \, dx
+\]
+\end{enumerate}
+\chapter{Clase jueves 21 de noviembre}
+\section{Figuras}
+
+\definecolor{dtsfsf}{rgb}{0.82,0.18,0.18}
+\definecolor{rvwvcq}{rgb}{0.08,0.39,0.75}
+\definecolor{sexdts}{rgb}{0.18,0.49,0.19}
+\begin{figure}[h]
+    \centering
+\begin{tikzpicture}[line cap=round,line join=rect,>=triangle 45,x=1cm,y=1cm]
+\begin{axis}[
+x=1cm,y=1cm,
+axis lines=middle,
+%ymajorgrids=true,
+%xmajorgrids=true,
+xmin=-4,xmax=5,ymin=-3,ymax=5,
+xtick={-7,-6,...,9},
+ytick={-9,-8,...,7},]
+\clip(-7.17,-9.49) rectangle (9.49,7.13);
+\draw [line width=2pt,color=red,domain=-4:5] plot(\x,{(-0--2*\x)/1});
+\draw [line width=2pt,color=blue,domain=-4:5] plot(\x,{(--2-1*\x)/1});
+\draw [line width=2pt,color=cyan,domain=-4:5,samples=100] plot(\x,{2*sin(pi*deg(\x))});
+\draw [line width=2pt,color=green] (-2,-3) -- (-2,4);
+\begin{scriptsize}
+\draw[color=sexdts] (3,3.5) node {\Large $y=2x$};
+\draw[color=rvwvcq] (3,0.5) node {\Large $y=2-x$};
+\draw[color=dtsfsf] (-1.5,0.5) node {\Large $x=-2$};
+\end{scriptsize}
+\end{axis}
+\end{tikzpicture}    
+    \caption{Caption}
+    \label{fig:my_label}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+\begin{tikzpicture}[line cap=round,line join=rect,>=triangle 45,x=1cm,y=1cm]
+\begin{axis}[
+x=1cm,y=1cm,
+axis lines=middle,
+%ymajorgrids=true,
+%xmajorgrids=true,
+xmin=-4,xmax=5,ymin=-3,ymax=5,
+xtick={-7,-6,...,9},
+ytick={-9,-8,...,7},]
+\clip(-7.17,-9.49) rectangle (9.49,7.13);
+\draw[line width=2pt,color=black, smooth,samples=100,domain=0:6.283185307179586] plot[parametric] function{3*cos((5*t))*cos((t)),3*cos((5*t))*sin((t))};
+\begin{scriptsize}
+\draw[color=brown] (3,3.5) node {\Large $r=3\sen(5\theta)$};
+\end{scriptsize}
+\end{axis}
+\end{tikzpicture}    
+    \caption{Caption}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=10cm]{CNX_Precalc_Figure_08_04_016new2.jpg}
+\caption{Curvas polares}\label{fig:polares}
+\end{figure}
+\section{Tablas}
+\begin{table}[h]
+    \centering
+\begin{tabular}{||c|c||}
+\hline
+ UNO &  DOS  \\
+\hline
+ 1 &  a \\
+ 2 &  b \\   \hline     
+\end{tabular}
+\caption{Datos observados}\label{tabla:datos}
+\end{table}
+
+Vemos en el cuadro \ref{tabla:datos} y en la figura \ref{fig:polares}.
+
+\listoffigures
+ 
+\listoftables
+
+\end{document}
+
