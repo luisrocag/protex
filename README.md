@@ -29,6 +29,10 @@ Reproducir un examen de la página: (https://postulanteuniversitario.blogspot.co
 
 (https://github.com/luisrocag/protex/blob/master/CM142-2017-I-PD3.pdf)
 
+## Laboratorio 3:
+[Codigo Latex](https://github.com/luisrocag/protex/blob/master/clases_latex_2019_2.tex)
+
+
 ### Código Latex 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana2.tex)
 
