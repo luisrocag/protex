@@ -17,6 +17,9 @@
 * [Laboratorio 6: Gráficos](https://github.com/luisrocag/protex/blob/master/graficas_python.ipynb)
 
 # LaTeX
+
+[PROYECTO FINAL DE LATEX 2019-2](https://github.com/luisrocag/protex/blob/master/protex_final_2019_2.zip)
+
 ### Código Latex 
 (https://github.com/luisrocag/protex/blob/master/codigo_semana1.tex)
 
